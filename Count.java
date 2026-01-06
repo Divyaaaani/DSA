@@ -1,6 +1,6 @@
 // count the number of digits TC= O(log 10(n))
 import java.lang.*;
-class count {
+class Count {
     static int countDigit(int n) {
     int count=0;
        while(n>0){
